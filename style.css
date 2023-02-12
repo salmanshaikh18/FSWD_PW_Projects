@@ -97,6 +97,10 @@ footer div img{
     float:right;
 }
 
+footer div img:hover {
+    cursor:pointer;
+}
+
 button {
     color:white;
     background-color:#ff505f;
