@@ -94,8 +94,8 @@ section .menubutton button {
 footer div img{
     position:absolute;
     height:140px;
-    bottom:5px;
-    left:89%;
+    right:0px;
+    bottom:2px;
 }
 
 button {
